@@ -20,7 +20,7 @@ A full manual build of a retail business's accounting cycle in Excel, from raw t
 
 ## Status
 
-🔧 In progress — currently building out the Income Statement, Balance Sheet, and Cash Flow Statement, all linked directly to the trial balance so the model recalculates automatically when new transactions are added.
+completed ✅
 
 ## File
 
