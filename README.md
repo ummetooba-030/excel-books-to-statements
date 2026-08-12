@@ -8,6 +8,8 @@ A full manual build of a retail business's accounting cycle in Excel, from raw t
 - **Journal Entries** — 30 transactions covering cash and credit sales, credit purchases, accounts payable, accounts receivable, operating expenses, and asset purchases
 - **Ledger** — built using Excel PivotTables, automatically aggregating debits and credits by account
 - **Trial Balance** — PivotTable-driven, verifying debits equal credits before moving to statement prep
+- **Income statement** - Using VLOOKUP To connect the sheets
+- **Balance sheet** - A fully generated balancesheet
 
 ## Skills demonstrated
 
